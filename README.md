@@ -8,6 +8,7 @@ Nama: Ika Nurfitriani
 
 Kode Peserta: PYTN-KS10-008
 
-Repositori ini memuat arsip kode selama saya menjalani program SIB Kampus Merdeka Batch 3 dari hacktiv8.
+
+*Repositori ini memuat arsip kode selama saya menjalani program SIB Kampus Merdeka Batch 3 dari hacktiv8.*
 
 **@ikanurfitriani**
