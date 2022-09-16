@@ -6,5 +6,3 @@
 - Perguruan Tinggi Asal: Universitas Teknologi Digital Indonesia
 
 *Repositori ini memuat arsip kode selama saya menjalani program SIB Kampus Merdeka Batch 3 di hacktiv8.*
-
-### Author: [Ika Nurfitriani](http://github.com/ikanurfitriani)
