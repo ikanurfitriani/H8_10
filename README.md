@@ -5,4 +5,4 @@
 - Nama: Ika Nurfitriani
 - Perguruan Tinggi Asal: Universitas Teknologi Digital Indonesia
 
-*Repositori ini memuat arsip kode selama saya menjalani program SIB Kampus Merdeka Batch 3 di hacktiv8.*
+*This repository contains code archives while I was running the SIB KM Batch 3 program on hacktiv8.*
