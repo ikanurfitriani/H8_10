@@ -1,4 +1,0 @@
-waitress
-pandas
-scikit-learn
-flask
